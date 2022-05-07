@@ -10,3 +10,4 @@ We looked at average trip lengths, a heatmap of most popular use times and days,
 
 One consideration that cannot be overlooked is the relative population of the two cities. The borough of Manhattan, one of five that make up New York City, has a population of approx. 1.6 million. Des Moines has a population of approx. 215,000. I would want to see side by side bar charts of the two cities broken down by gender. I would also appreciate a comparative breakdown of the percentage of roads in each city that are considered ‘bike friendly’.
 
+[link to dashboard](https://public.tableau.com/app/profile/christianna.zammatore/viz/NYCAnalysisforDM/NYCAnalysisforDM?publish=yes)
